@@ -4,7 +4,7 @@ Para essa edição do "CSS Drawing", escolhi fazer umas pirâmides utilizando um
 
 https://nathaliazuza.github.io/pyramids-css/
 
-<img width="549" alt="pyramids" src="https://github.com/NathaliaZuza/pyramids-css/assets/105496086/6af0c4e9-7e43-4fc3-866d-e1bae6ac374a">
+<img width="654" alt="pyramids" src="https://github.com/NathaliaZuza/pyramids-css/assets/105496086/95887c80-53b9-41a0-b87f-ea2dafeedaee">
 
 <br/>
 
